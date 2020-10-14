@@ -1,7 +1,7 @@
 # simple-age-calculator
 this is a simple Python Program to Calculate your Age in Upcoming Years 
 
-steps:
+# Steps:
 1) Enter Your Birth Year
 2) Enter your Desired Year you Want to know Your Age
 3) Done!
